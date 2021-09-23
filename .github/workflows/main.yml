@@ -6,8 +6,8 @@ jobs:
     steps:
     - uses: actions/checkout@v2
     - name: Install modules
-      working-directory: ./ci-example
+      working-directory: ./docker-example
       run: npm install
     - name: Run tests
-      working-directory: ./ci-example
+      working-directory: ./docker-example
       run: npm run test:unit
