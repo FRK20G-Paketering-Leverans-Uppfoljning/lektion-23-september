@@ -1,5 +1,7 @@
 # Lektion 22 september
 
+Visuell bild av CI/CD: https://www.figma.com/file/jCumfZ6USgUxzqGs1K4XFN/CI-CD?node-id=0%3A1
+
 ## Övningar
 
 1. Ladda ner och installera Docker Desktop: https://www.docker.com/get-started 
