@@ -6,6 +6,11 @@
 
 2. "Dockerisera" Vue-appen med hjälp av Vue cookbook: [Dockerize Vue.js App](https://vuejs.org/v2/cookbook/dockerize-vuejs-app.html), så att du får en image. Använd `docker run` för att starta imagen.
 
+3. Publicera din app på Heroku! Dessa guider kan vara bra att ha till hands: 
+https://devcenter.heroku.com/articles/build-docker-images-heroku-yml
+https://devcenter.heroku.com/articles/heroku-cli#download-and-install
+https://devcenter.heroku.com/articles/github-integration#enabling-github-integration
+
 ## Artiklar
 
 Docker: https://www.docker.com/get-started
