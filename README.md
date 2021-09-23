@@ -12,10 +12,14 @@ Docker: https://www.docker.com/get-started
 
 Vad är en container?: https://www.docker.com/resources/what-container
 
-Events för workflows: https://docs.github.com/en/actions/learn-github-actions/events-that-trigger-workflows
+Bygga Docker images för Heroku: https://devcenter.heroku.com/articles/build-docker-images-heroku-yml
+
+Heroku CLI: https://devcenter.heroku.com/articles/heroku-cli#download-and-install
+
+Github integration med Heroku: https://devcenter.heroku.com/articles/github-integration#enabling-github-integration
 
 ## Videor
 
 ## Inspelningar
 
-https://drive.google.com/drive/folders/1E8aZr_Wtp-ngulHDDtCdBXjVNZsl2zRt?usp=sharing
+https://drive.google.com/drive/folders/1yByqEjgU9lQX9je89nB8KCTUK_ZhzPyL?usp=sharing
